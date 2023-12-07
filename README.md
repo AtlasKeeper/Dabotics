@@ -3,7 +3,7 @@ showcasing a spectrum of solutions and hands-on experiences in the field of soft
 
 <h2>Projects Overview:</h2>
 
-1. Task 001: Python Alarm Clock with Tkinter and Pygame
+<h4>1. Task 001: Python Alarm Clock with Tkinter and Pygame</h4>
 A user-friendly alarm clock application combining Tkinter for the graphical interface and Pygame for immersive alarm sounds.
 This is the first task in the Dabotics repository, focusing on creating a Python alarm clock. The application utilizes Tkinter for the graphical user interface and Pygame for playing alarm sounds.
 Users can easily set alarms, receive notifications at the specified times, and dismiss alarms when needed.
