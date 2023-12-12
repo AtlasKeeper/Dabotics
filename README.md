@@ -29,6 +29,36 @@ Set and dismiss alarms seamlessly.
 - Pygame: <code>pip install pygame</code>
 - Feel free to contribute, report issues, or suggest improvements related to this specific task!
 
-2.(Future Project)
+<h4>2. Task 002 OTP Verification with Python</h4>
+This Python script enables simple OTP (One-Time Password) verification via email. 
+The script generates a 6-digit random number, sends it to the user's email address, 
+and prompts the user to enter the received OTP for verification.
+
+<h3>Features</h3>
+<ul>
+  <li>Random 6-digit OTP generation</li>
+  <li>Email delivery of OTP using a secure SMTP connection</li>
+  <li>User prompt to enter OTP for verification</li>
+</ul>
+
+<h3>How to Use</h3>
+<ol>
+  <li>Run the script and enter your email address.</li>
+  <li>Check your email for the OTP.</li>
+  <li>Enter the OTP to complete the verification.</li>
+</ol>
+
+<h3>Requirements</h3>
+<ul>
+  <li>Python 3.x</li>
+  <li>smtplib for sending emails</li>
+  <li>dotenv for securely handling environment variables</li>
+</ul>
+
+<h3>Usage</h3>
+<code>python otp_verification.py</code>
+<p>Don't forget to set your email credentials in the .env file.</p>
+
+
 
 3.(Future Project)
