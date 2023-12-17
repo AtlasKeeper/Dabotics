@@ -51,7 +51,7 @@ and prompts the user to enter the received OTP for verification.
 <h3>Requirements</h3>
 <ul>
   <li>Python 3.x</li>
-  <li>smtplib for sending emails</li>
+  
   <li>dotenv for securely handling environment variables</li>
 </ul>
 
