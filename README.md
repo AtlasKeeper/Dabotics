@@ -3,7 +3,7 @@ showcasing a spectrum of solutions and hands-on experiences in the field of soft
 
 <h2>Projects Overview:</h2>
 
-<h4>1. Task 001: Python Alarm Clock with Tkinter and Pygame</h4>
+<h1>1. Task 001: Python Alarm Clock with Tkinter and Pygame</h1>
 A user-friendly alarm clock application combining Tkinter for the graphical interface and Pygame for immersive alarm sounds.
 This is the first task in the Dabotics repository, focusing on creating a Python alarm clock. The application utilizes Tkinter for the graphical user interface and Pygame for playing alarm sounds.
 Users can easily set alarms, receive notifications at the specified times, and dismiss alarms when needed.
@@ -29,7 +29,7 @@ Set and dismiss alarms seamlessly.
 - Pygame: <code>pip install pygame</code>
 - Feel free to contribute, report issues, or suggest improvements related to this specific task!
 
-<h4>2. Task 002: OTP Email Script</h4>
+<h1>2. Task 002: OTP Email Script</h1>
 This Python script generates a 6-digit OTP (One-Time Password), sends it to the user's email address, and verifies the entered OTP using MailHog as a mail testing tool.
 
 <h3>Prerequisites</h3>
@@ -61,7 +61,7 @@ The script will verify the entered OTP.
 
 
 
-<h4>3.URL Shortene</h4>
+<h1>3.URL Shortene</h1>
 <p>This is a simple URL shortener web application created using Flask and SQLAlchemy.</p>
 
 <h3>Prerequisites</h3>
