@@ -61,6 +61,40 @@ The script will verify the entered OTP.
 
 
 
+<h4>3.URL Shortene</h4>
+<p>This is a simple URL shortener web application created using Flask and SQLAlchemy.</p>
+
+<h3>Prerequisites</h3>
+<li>Python 3.x</li>
+<li>Flask</li>
+<li>Flask-SQLAlchemy</li>
 
 
-3.(Future Project)
+<h3>Installation</h3>
+1.  Clone the repository:
+<code> git clone https://github.com/your-username/url-shortener.git
+    cd url-shortener</code>
+
+2. Install dependencies:
+<code> pip install -r requirements.txt</code>
+
+3. Run the application:
+<code> python url_shortener.py</code>
+
+The application will be accessible at [http://127.0.0.1:5000/](http://127.0.0.1:5000/).
+
+
+<h3>Usage</h3>
+1. Access the URL shortener web page.
+2. Enter a full URL (starting with `http://` or `https://`) into the text input field.
+3. Click the "Shorten" button.
+4. Copy the shortened URL provided on the result page.
+5. Test the shortened URL by pasting it into the address bar of your browser.
+
+
+<h3>Project Structures</h3>
+<ol>
+  <li>`url_shortener.py`: The main Flask application file.</li>
+  <li>`templates/`: Contains HTML templates for the application.</li>
+  <li>`static/`: Contains static files (e.g., CSS stylesheets).</li>
+</ol>
